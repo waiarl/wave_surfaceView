@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!--直播声音颜色-->
+    <color name="sound_line_color_7">#23E8EC</color>
+    <color name="sound_line_color_6">#8B00FF</color>
+    <color name="sound_line_color_5">#007FFF</color>
+    <color name="sound_line_color_4">#00FFFF</color>
+    <color name="sound_line_color_3">#FFFF00</color>
+    <color name="sound_line_color_2">#FFA500</color>
+    <color name="sound_line_color_1">#FF0000</color>
+</resources>
